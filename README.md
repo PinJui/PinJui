@@ -53,121 +53,35 @@ me.say_hi()
 
 ---
 
-### 🔥 Featured Projects
+### 💾 Projects
+
+#### 🎯 DeadLiner
+> Cross-timezone deadline tracker built with Python & Reflex
+
+**Stack:** `Python` `Reflex` `Web App`
+
+⚡ Multi-timezone support • Real-time countdown • Auto-sync functionality
 
 <div align="left">
-
-```ascii
-┌─────────────────────────────────────────────────────────────────────────┐
-│  >> ls -la ~/projects                                                   │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+  
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Reflex-5A67D8?style=for-the-badge&logo=react&logoColor=white)](https://deadliner-aqua-ring.reflex.run/)
+![Status](https://img.shields.io/badge/STATUS-PRODUCTION-2bba1c?style=for-the-badge)
 
 </div>
 
-<!-- DeadLiner -->
-<details open>
-<summary>
-<b>🎯 DeadLiner</b> - Cross-Timezone Deadline Tracker
-<br>
-<code>Python</code> <code>Reflex</code> <code>Web App</code>
-</summary>
+---
 
-<br>
+#### 🤖 FDRL
+> Feature Decomposition & Reconstruction Learning - PyTorch implementation (CVPR'21)
 
-<table>
-<tr>
-<td width="60%">
+**Stack:** `PyTorch` `Computer Vision` `Deep Learning`
 
-**Description:**  
-A sleek web application for tracking deadlines across different timezones. Built with Reflex framework for a modern, responsive experience.
+⚡ State-of-the-art FER • Novel decomposition approach • Extensive benchmarking
 
-**Features:**
-- 🌍 Multi-timezone support
-- ⏰ Real-time countdown
-- 📱 Responsive design
-- 🔄 Auto-sync functionality
+<div align="left">
 
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-5A67D8?style=flat-square)
-
-</td>
-<td width="40%" align="center">
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00F702?style=for-the-badge&logoColor=white)](https://deadliner-aqua-ring.reflex.run/)
-
-<br>
-
-```
-Status: ✅ Production
-Updated: 2026
-```
-
-<br>
-</td>
-</tr>
-</table>
-
-</details>
-
-<!-- FDRL -->
-<details open>
-<summary>
-<b>🤖 FDRL</b> - Feature Decomposition & Reconstruction Learning
-<br>
-<code>PyTorch</code> <code>Computer Vision</code> <code>CVPR'21</code>
-</summary>
-
-<br>
-
-<table>
-<tr>
-<td width="60%">
-
-**Description:**  
-Unofficial implementation of "Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition" (CVPR 2021).
-
-**Highlights:**
-- 📊 State-of-the-art FER performance
-- 🔬 Novel decomposition approach
-- 📈 Extensive benchmarking
-- 📝 Well-documented codebase
-
-**Tech Stack:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="40%" align="center">
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinJui/FDRL)
-
-[![Stars](https://img.shields.io/github/stars/PinJui/FDRL?style=social)](https://github.com/PinJui/FDRL)
-
-<br>
-
-```
-⭐ Stars: 19
-🍴 Forks: 3
-📅 Updated: 2024
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  💡 Click on each project to expand and see more details!               │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+[![GitHub](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinJui/FDRL)
+![Stars](https://img.shields.io/badge/⭐_19_STARS-FFD700?style=for-the-badge)
 
 </div>
 
@@ -190,7 +104,7 @@ Unofficial implementation of "Feature Decomposition and Reconstruction Learning 
 
 [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10243549)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2F...10243549-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/10243549)
-![Year](https://img.shields.io/badge/Year-2023-00F702?style=for-the-badge)
+![Year](https://img.shields.io/badge/Year-2023-2bba1c?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Journal-purple?style=for-the-badge)
 
 
