@@ -262,14 +262,6 @@ If you like my projects and research, consider buying me a coffee! ☕
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/PinJui)
 
-```
-╔═══════════════════════════════════════════════╗
-║  Your support helps me continue creating      ║
-║  open source projects and conducting          ║
-║  research in Computer Vision! 💚              ║
-╚═══════════════════════════════════════════════╝
-```
-
 </div>
 
 <div align="center">
