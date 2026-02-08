@@ -64,7 +64,7 @@ me.say_hi()
 
 <div align="left">
   
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Reflex-5A67D8?style=for-the-badge&logo=react&logoColor=white)](https://deadliner-aqua-ring.reflex.run/)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Reflex-5A67D8?style=for-the-badge&logoColor=white)](https://deadliner-aqua-ring.reflex.run/)
 ![Status](https://img.shields.io/badge/STATUS-PRODUCTION-2bba1c?style=for-the-badge)
 
 </div>
