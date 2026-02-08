@@ -107,9 +107,6 @@ Updated: 2026
 ```
 
 <br>
-
-![Demo](https://img.shields.io/badge/Try_It_Now!-00F702?style=flat-square)
-
 </td>
 </tr>
 </table>
