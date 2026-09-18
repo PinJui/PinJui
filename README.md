@@ -145,7 +145,7 @@ me.say_hi()
 
 <div align="center">
 
-![PinJui's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PinJui&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F702&line=00F702&point=FFFFFF)
+![PinJui's GitHub chart](https://ghchart.rshah.org/00F702/PinJui)
 
 </div>
 
